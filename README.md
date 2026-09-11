@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm lakshay Jain👋
 
-<!--
-**lakshayjain051/lakshayjain051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about problem-solving, software development, and continuous learning.
+Building projects and strengthening my skills one step at a time.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Languages : C++, C <br>
+Web dev : HTML, CSS, JavaScript <br>
+Tools : Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+Data Structures & Algorithms <br>
+C++ <br>
+Full Stack Development <br>
+Building real-world projects
+
+## 🚀 Goals
+To become a strong software developer by continuously learning, practicing, and building projects.
+
+## 🤝 Let's Connect
+Always open to learning, collaborating, and building something interesting!
